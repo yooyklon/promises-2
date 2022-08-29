@@ -1,1 +1,1 @@
-# promises-2
+[![Build status](https://ci.appveyor.com/api/projects/status/g22jouv0dlaie39i?svg=true)](https://ci.appveyor.com/project/yooyklon/promises-2)
